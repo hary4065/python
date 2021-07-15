@@ -1,0 +1,1 @@
+ed()     # variable "a" is created and set to 20
